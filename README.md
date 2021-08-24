@@ -3,7 +3,7 @@
 - I am a huge fan of Git and I use Azure DevOps Server for managing my repos.
 - I have also worked on below technologies:
   Sitecore (Certified developer), Elasticsearch, Kibana, Solr, Typescript, Electron, DocFX, MongoDB, Rust.
-- I do almost anything and everything using VS Code :blue_heart: and Windows Terminal. Of course, Visual studio has been my long-time companion.
+- VS Code :blue_heart:, Windows Terminal and PowerToys are my favorite productivity tools. Of course, Visual studio has been my long-time companion.
 - Reach me at:
   - rinshadm90@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/muhammad-rinshad-67353258/)
